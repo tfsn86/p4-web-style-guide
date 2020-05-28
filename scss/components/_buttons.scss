@@ -13,11 +13,11 @@
 }
 
 .default {
-	background-color: #51ddfc;
+	background-color: $secondary-color;
 }
 
 .error {
-	background-color: #e4757a;
+	background-color: $red;
 }
 
 .info {
@@ -29,5 +29,5 @@
 }
 
 .warning {
-	background-color: #fd7856;
+	background-color: $orange;
 }
