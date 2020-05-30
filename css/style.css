@@ -461,7 +461,6 @@ a {
   display: flex;
   flex-direction: column;
 }
-
 .nav-link {
   text-align: center;
   border-radius: 5px;
@@ -470,10 +469,10 @@ a {
   width: 100%;
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 }
-
 .nav-link:hover {
   color: #fff;
-  background-color: #58e1c1;
+  background-color: #99edd9;
+  transition: background-color 0.7s ease-in-out;
 }
 
 /* ============================================= */
