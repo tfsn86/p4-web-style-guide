@@ -12,6 +12,12 @@
 	border-radius: 5px;
 }
 
+.btn:hover {
+	color: #fff;
+	background-color: lighten($primary-color, 15%);
+	transition: background-color 0.7s ease-in-out;
+}
+
 .default {
 	background-color: $secondary-color;
 }
